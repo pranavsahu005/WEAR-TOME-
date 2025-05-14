@@ -6,7 +6,6 @@
   margin-top: 10px;
   margin-bottom: 50px;
   padding: 3px;
-  display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
@@ -44,11 +43,11 @@
 }
 
 .picture-box .pic1 {
-  background-image: url('images/pic1.png');
+  background-image: url('../IMAGES/pic1.png');
 }
 
 .picture-box .pic2 {
-  background-image: url('IMAGES/pic5.png');
+  background-image: url('../IMAGES/pic5.png');
 }
 
 .picture-box .pic3 {
@@ -71,38 +70,38 @@
 }
 
 .picture-box0 .pic1:hover {
-  background-image: url('IMAGES/nobg-1.jpeg');
+  background-image: url('../IMAGES/nobg-1.jpeg');
   z-index: 2;
 }
 
 .picture-box0 .pic2 {
-  background-image: url('IMAGES/nobg__2_-removebg-preview.png');
+  background-image: url('../IMAGES/nobg__2_-removebg-preview.png');
   transition: all 0.001s step-end;
 }
 
 .picture-box0 .pic2:hover {
-  background-image: url('IMAGES/nobg-2.jpeg');
+  background-image: url('../IMAGES/nobg-2.jpeg');
   z-index: 2;
 }
 
 .picture-box0 .pic3 {
-  background-image: url('IMAGES/nobg__3_-removebg-preview.png');
+  background-image: url('../IMAGES/nobg__3_-removebg-preview.png');
   transition: all 0.001s step-end;
 }
 
 .picture-box0 .pic3:hover {
-  background-image: url('IMAGES/nobg-3.jpeg');
+  background-image: url('../IMAGES/nobg-3.jpeg');
   z-index: 2;
 }
 
 .picture-box0 .pic4 {
-  background-image: url('IMAGES/nobg_4_-removebg-preview.png');
+  background-image: url('../IMAGES/nobg_4_-removebg-preview.png');
   transition: all 0.001s step-end;
   z-index: 3;
 }
 
 .picture-box0 .pic4:hover {
-  background-image: url('IMAGES/nobg-4.jpeg');
+  background-image: url('../IMAGES/nobg-4.jpeg');
   z-index: 2;
 }
 
@@ -197,7 +196,6 @@
   display: flex;
   background-color: #d7d9dc;
   height: 50vh;
-  display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
@@ -219,27 +217,27 @@
 }
 
 .boxes .t-shirt1 {
-  background-image: url('IMAGES/t-shirt1.jpg');
+  background-image: url('../IMAGES/t-shirt1.jpg');
 }
 
 /* t-shirt-box 2 */
 .boxes .t-shirt2 {
-  background-image: url('IMAGES/t-shirt2-2.jpg');
+  background-image: url('../IMAGES/t-shirt2-2.jpg');
 }
 
 /* t-shirt-box 3 */
 .boxes .t-shirt3 {
-  background-image: url('IMAGES/t-shirt3.png');
+  background-image: url('../IMAGES/t-shirt3.png');
 }
 
 /* t-shirt-box 4 */
 .boxes .t-shirt4 {
-  background-image: url('IMAGES/t-shirt4.jpg');
+  background-image: url('../IMAGES/t-shirt4.jpg');
 }
 
 /* t-shirt-box 5 */
 .boxes .t-shirt5 {
-  background-image: url('IMAGES/t-shirt5.png');
+  background-image: url('../IMAGES/t-shirt5.png');
 }
 
 .boxes2 {
@@ -248,27 +246,27 @@
 
 /* t-shirt-box 1 */
 .boxes2 .top1 {
-  background-image: url('IMAGES/crop1.jpeg');
+  background-image: url('../IMAGES/crop1.jpeg');
 }
 
 /* t-shirt-box 2 */
 .boxes2 .top2 {
-  background-image: url('IMAGES/crop2.jpeg');
+  background-image: url('../IMAGES/crop2.jpeg');
 }
 
 /* t-shirt-box 3 */
 .boxes2 .top3 {
-  background-image: url('IMAGES/crop3.jpeg');
+  background-image: url('../IMAGES/crop3.jpeg');
 }
 
 /* t-shirt-box 4 */
 .boxes2 .top4 {
-  background-image: url('IMAGES/crop4.jpeg');
+  background-image: url('../IMAGES/crop4.jpeg');
 }
 
 /* t-shirt-box 5 */
 .boxes2 .top5 {
-  background-image: url('IMAGES/cop5.jpeg');
+  background-image: url('../IMAGES/cop5.jpeg');
 }
 
 .box:hover {
@@ -284,7 +282,6 @@
   display: flex;
   background-color: #ffffff;
   height: 45vh;
-  display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
@@ -320,145 +317,145 @@
 }
 
 .picture-box2 .pic1 {
-  background-image: url('IMAGES/men1.png');
+  background-image: url('../IMAGES/men1.png');
   background-size: cover;
 }
 
 .picture-box2 .pic2 {
-  background-image: url('IMAGES/men2.png');
+  background-image: url('../IMAGES/men2.png');
   background-size: cover;
 }
 
 .picture-box2 .pic3 {
-  background-image: url('IMAGES/men3.png');
+  background-image: url('../IMAGES/men3.png');
   background-size: cover;
 }
 
 .picture-box2 .pic4 {
-  background-image: url('IMAGES/men4.png');
+  background-image: url('../IMAGES/men4.png');
   background-size: cover;
 }
 
 .picture-box2 .pic5 {
-  background-image: url('IMAGES/men5.png');
+  background-image: url('../IMAGES/men5.png');
   background-size: cover;
 }
 
 /* 3rd picture box */
 .picture-box3 .pic6 {
-  background-image: url('IMAGES/men6.jpg');
+  background-image: url('../IMAGES/men6.jpg');
   background-size: cover;
 }
 
 .picture-box3 .pic7 {
-  background-image: url('IMAGES/men7.jpg');
+  background-image: url('../IMAGES/men7.jpg');
   background-size: cover;
 }
 
 .picture-box3 .pic8 {
-  background-image: url('IMAGES/men8.png');
+  background-image: url('../IMAGES/men8.png');
   background-size: cover;
 }
 
 .picture-box3 .pic9 {
-  background-image: url('IMAGES/men9.jpg');
+  background-image: url('../IMAGES/men9.jpg');
   background-size: cover;
 }
 
 .picture-box3 .pic10 {
-  background-image: url('IMAGES/men10.jpeg');
+  background-image: url('../IMAGES/men10.jpeg');
   background-size: cover;
 }
 
 /* 4th picture box women */
 .picture-box4 .pic1 {
-  background-image: url('IMAGES/women1.PNG');
+  background-image: url('../IMAGES/women1.PNG');
   background-size: cover;
 }
 
 .picture-box4 .pic2 {
-  background-image: url('IMAGES/women2.jpg');
+  background-image: url('../IMAGES/women2.jpg');
   background-size: cover;
 }
 
 .picture-box4 .pic3 {
-  background-image: url('IMAGES/women3.jpg');
+  background-image: url('../IMAGES/women3.jpg');
   background-size: cover;
 }
 
 .picture-box4 .pic4 {
-  background-image: url('IMAGES/women4.jpg');
+  background-image: url('../IMAGES/women4.jpg');
   background-size: cover;
 }
 
 .picture-box4 .pic5 {
-  background-image: url('IMAGES/women5.PNG');
+  background-image: url('../IMAGES/women5.PNG');
   background-size: cover;
 }
 
 /* Women picture box -- 5th picture box */
 .picture-box5 .pic6 {
-  background-image: url('IMAGES/women6.PNG');
+  background-image: url('../IMAGES/women6.PNG');
   background-size: cover;
 }
 
 .picture-box5 .pic7 {
-background-image: url('IMAGES/women7.jpeg');
-background-size: cover;
+  background-image: url('../IMAGES/women7.jpeg');
+  background-size: cover;
 }
 
 .picture-box5 .pic8 {
-background-image: url('IMAGES/women8.jpeg');
-background-size: cover;
+  background-image: url('../IMAGES/women8.jpeg');
+  background-size: cover;
 }
 
 .picture-box5 .pic9 {
-background-image: url('IMAGES/women9.jpeg');
-background-size: cover;
+  background-image: url('../IMAGES/women9.jpeg');
+  background-size: cover;
 }
 
 .picture-box5 .pic10 {
-background-image: url('IMAGES/women10.jpeg');
-background-size: cover;
+  background-image: url('../IMAGES/women10.jpeg');
+  background-size: cover;
 }
 
 /* More picture boxes (like Background pictures) */
 .picture-box6 .pic1 {
-background-image: url('IMAGES/bg-2.jpeg');
+  background-image: url('../IMAGES/bg-2.jpeg');
 }
 
 .picture-box6 .pic2 {
-background-image: url('IMAGES/bg-3.jpeg');
+  background-image: url('../IMAGES/bg-3.jpeg');
 }
 
 .picture-box6 .pic3 {
-background-image: url('IMAGES/bg-4.jpeg');
+  background-image: url('../IMAGES/bg-4.jpeg');
 }
 
 .picture-box6 .pic4 {
-background-image: url('IMAGES/bg-5.jpeg');
+  background-image: url('../IMAGES/bg-5.jpeg');
 }
 
 .picture-box6 .pic5 {
-background-image: url('IMAGES/bg-1.jpeg');
+  background-image: url('../IMAGES/bg-1.jpeg');
 }
 
 .picture-box7 .pic6 {
-background-image: url('IMAGES/bg-6.jpeg');
+  background-image: url('../IMAGES/bg-6.jpeg');
 }
 
 .picture-box7 .pic7 {
-background-image: url('IMAGES/bg-7.jpeg');
+  background-image: url('../IMAGES/bg-7.jpeg');
 }
 
 .picture-box7 .pic8 {
-background-image: url('IMAGES/bg-11.jpeg');
+  background-image: url('../IMAGES/bg-11.jpeg');
 }
 
 .picture-box7 .pic9 {
-background-image: url('IMAGES/bg-9.jpeg');
+  background-image: url('../IMAGES/bg-9.jpeg');
 }
 
 .picture-box7 .pic10 {
-background-image: url('IMAGES/bg-10.jpeg');
+  background-image: url('../IMAGES/bg-10.jpeg');
 }
