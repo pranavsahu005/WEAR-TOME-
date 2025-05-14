@@ -52,11 +52,11 @@
 }
 
 .picture-box .pic3 {
-  background-image: url('IMAGES/pic2.png');
+  background-image: url('../IMAGES/pic2.png');
 }
 
 .picture-box .pic4 {
-  background-image: url('IMAGES/pic4.png');
+  background-image: url('../IMAGES/pic4.png');
 }
 
 /* Picture-box 6 pictures */
@@ -65,7 +65,7 @@
 }
 
 .picture-box0 .pic1 {
-  background-image: url('IMAGES/nobg__1_-removebg-preview.png');
+  background-image: url('../IMAGES/nobg__1_-removebg-preview.png');
   z-index: 3;
   transition: all 0.001s step-end;
 }
