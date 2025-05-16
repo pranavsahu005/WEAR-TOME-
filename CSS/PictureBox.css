@@ -420,42 +420,107 @@
 }
 
 /* More picture boxes (like Background pictures) */
+/*6th picture box t-shirt*/
+.picture-box6 .pic1{
+  background-image: url('../IMAGES/bg\ \(2\).jpeg);
+  background-size: cover;
+}
+.picture-box6 .pic2{
+  background-image: url(/IMAGES/bg\ \(3\).jpeg);
+  background-size: cover;
+}
+.picture-box6 .pic3{
+  background-image: url(/IMAGES/bg\ \(4\).jpeg);
+  background-size: cover;
+}
+.picture-box6 .pic4{
+  background-image: url(/IMAGES/bg\ \(5\).jpeg);
+  background-size: cover;
+}
+.picture-box6 .pic5{
+  background-image: url(/IMAGES/bg\ \(1\).jpeg);
+  background-size: cover;
+}
+ 
+/*oversidez t- shity images*/
+.picture-box7 .pic6{
+  background-image: url(/IMAGES/bg\ \(6\).jpeg);
+  background-size: cover;
+}
+.picture-box7 .pic7{
+ background-image: url(/IMAGES/bg\ \(7\).jpeg);
+  background-size: cover;
+}
+.picture-box7 .pic8{
+  background-image: url(/IMAGES/bg\ \(11\).jpeg);
+  background-size: cover;
+}
+.picture-box7 .pic9{
+  background-image: url(/IMAGES/bg\ \(9\).jpeg);
+  background-size: cover;
+}
+.picture-box7 .pic10{
+  background-image: url(/IMAGES/bg\ \(10\).jpeg);
+  background-size: cover;
+}
+.photo:hover {
+  transform: scale(1.055);
+  transition: all 0.4s ease;
+  z-index: 3;
+  box-shadow: 8px 4px 10px rgba(0, 0, 0, 0.2);
+  filter: brightness(1);
+  background-color: #ffffff;
+}
+/* 6th picture box t-shirt */
 .picture-box6 .pic1 {
-  background-image: url('../IMAGES/bg-2.jpeg');
+  background-image: url("IMAGES/bg (2).jpeg");
+  background-size: cover;
 }
-
 .picture-box6 .pic2 {
-  background-image: url('../IMAGES/bg-3.jpeg');
+  background-image: url("IMAGES/bg (3).jpeg");
+  background-size: cover;
 }
-
 .picture-box6 .pic3 {
-  background-image: url('../IMAGES/bg-4.jpeg');
+  background-image: url("IMAGES/bg (4).jpeg");
+  background-size: cover;
 }
-
 .picture-box6 .pic4 {
-  background-image: url('../IMAGES/bg-5.jpeg');
+  background-image: url("IMAGES/bg (5).jpeg");
+  background-size: cover;
 }
-
 .picture-box6 .pic5 {
-  background-image: url('../IMAGES/bg-1.jpeg');
+  background-image: url("IMAGES/bg (1).jpeg");
+  background-size: cover;
 }
 
+/* oversized t-shirt images */
 .picture-box7 .pic6 {
-  background-image: url('../IMAGES/bg-6.jpeg');
+  background-image: url("IMAGES/bg (6).jpeg");
+  background-size: cover;
 }
-
 .picture-box7 .pic7 {
-  background-image: url('../IMAGES/bg-7.jpeg');
+  background-image: url("IMAGES/bg (7).jpeg");
+  background-size: cover;
 }
-
 .picture-box7 .pic8 {
-  background-image: url('../IMAGES/bg-11.jpeg');
+  background-image: url("IMAGES/bg (11).jpeg");
+  background-size: cover;
 }
-
 .picture-box7 .pic9 {
-  background-image: url('../IMAGES/bg-9.jpeg');
+  background-image: url("IMAGES/bg (9).jpeg");
+  background-size: cover;
+}
+.picture-box7 .pic10 {
+  background-image: url("IMAGES/bg (10).jpeg");
+  background-size: cover;
 }
 
-.picture-box7 .pic10 {
-  background-image: url('../IMAGES/bg-10.jpeg');
+.photo:hover {
+  transform: scale(1.055);
+  transition: all 0.4s ease;
+  z-index: 3;
+  box-shadow: 8px 4px 10px rgba(0, 0, 0, 0.2);
+  filter: brightness(1);
+  background-color: #ffffff;
 }
+
