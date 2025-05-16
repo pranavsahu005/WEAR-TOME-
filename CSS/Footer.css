@@ -225,6 +225,6 @@ ul li:hover {
 
 .footer-links.social-icons a:hover {
   transform: scale(1.2);
-  
   cursor: pointer;
 }
+
