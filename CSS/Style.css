@@ -124,20 +124,19 @@ header {
   width: 500px;
 }
 .logo {
-  background-image: url("IMAGES/Mockups___3_-removebg-preview.jpg");
+  background-image: url(../IMAGES/Mockups___3_-removebg-preview.jpg);
   background-size: cover;
   height: 9vh;
   width: 12vw;
-  z-index: 1;
-  filter: drop-shadow(2px 4px 0.75rem #797979);
+   z-index: 1;
+   filter: drop-shadow(2px 4px 0.75rem #797979);
 }
-
 .logo:hover {
   cursor: pointer;
   transform: scale(1.05);
-  background-image: url("IMAGES/wear tome (1).png");
+  background-image: url(/IMAGES/wear\ tome\ \(1\).png);
   transition: all 0.3s ease;
-  background-size: cover;
+ background-size: cover;
   margin-left: -3px;
 }
 .login .nav-logo:hover {
@@ -408,6 +407,7 @@ box-shadow: 10px 20px 50px rgba(17, 12, 12, 0.1);
 .box:hover .rating {
   display: flex;
 }
+
 /*Products Details*/
 .details {
   display: flex;
@@ -418,6 +418,7 @@ box-shadow: 10px 20px 50px rgba(17, 12, 12, 0.1);
   position: relative;
  box-shadow: 7px 3px 10px rgba(0, 0, 0, 0.3);
 }
+
 .det {
   position: relative;
   width: 300px;
@@ -435,6 +436,7 @@ box-shadow: 10px 20px 50px rgba(17, 12, 12, 0.1);
   cursor: pointer;
   box-shadow: 10px 6px 12px rgba(0, 0, 0, 0.3);
 }
+
 /*Products Details Text */
 .details .det span h1{
   font-size: 12px;
